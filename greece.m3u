@@ -1,19 +1,75 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ERT1.gr" tvg-name="ERT 1" group-title="Grecia Publicos",ERT 1
-https://ertflix-live-bcbs15228.siliconweb.com/media/ert1/default/index.m3u8
+# ===== ERT =====
+#EXTINF:-1 tvg-id="ERT1.gr" group-title="Grecia",ERT 1
+https://mediastream.ert.gr/vodedge/_definst_/ert1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ERT2.gr" tvg-name="ERT 2" group-title="Grecia Publicos",ERT 2
-https://ertflix-live-bcbs15228.siliconweb.com/media/ert2/default/index.m3u8
+#EXTINF:-1 tvg-id="ERT2.gr" group-title="Grecia",ERT 2
+https://mediastream.ert.gr/vodedge/_definst_/ert2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT 3" group-title="Grecia Publicos",ERT 3
-https://ertflix-live-bcbs15228.siliconweb.com/media/ert3/default/index.m3u8
+#EXTINF:-1 tvg-id="ERT3.gr" group-title="Grecia",ERT 3
+https://mediastream.ert.gr/vodedge/_definst_/ert3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ERTNews.gr" tvg-name="ERT News" group-title="Grecia Publicos",ERT News
-https://ertflix-live-bcbs15228.siliconweb.com/media/ertnews/default/index.m3u8
+#EXTINF:-1 tvg-id="ERTNews.gr" group-title="Grecia",ERT News
+https://mediastream.ert.gr/vodedge/_definst_/ertnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="ERT World" group-title="Grecia Publicos",ERT World
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+# ===== Nacionales =====
+#EXTINF:-1 tvg-id="ANT1.gr" group-title="Grecia",ANT1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 
-#EXTINF:-1 tvg-id="VouliTV.gr" tvg-name="Vouli TV" group-title="Grecia Publicos",Vouli TV
-https://streaming.vouliwatch.gr/live/vouli/stream.m3u8
+#EXTINF:-1 tvg-id="AlphaTV.gr" group-title="Grecia",Alpha TV
+https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+
+#EXTINF:-1 tvg-id="SkaiTV.gr" group-title="Grecia",SKAI TV
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="OpenTV.gr" group-title="Grecia",Open TV
+https://stream.open.gr/openwebtv.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.gr" group-title="Grecia",Star Channel
+https://livestar.siliconweb.com/starvod/star.m3u8
+
+#EXTINF:-1 tvg-id="MakedoniaTV.gr" group-title="Grecia",Makedonia TV
+https://stream.makedoniatv.gr/live/makedoniatv/index.m3u8
+
+# ===== Regionales =====
+#EXTINF:-1 group-title="Grecia Regional",Kontra Channel
+https://kontralive.siliconweb.com/live/kontra/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",Action 24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",Blue Sky
+https://blueskylive.siliconweb.com/blueskyabr/blueskytv/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",Attica TV
+https://atticatv.siliconweb.com/atticatv/atticatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",Creta TV
+https://live.streams.ovh/cretatv/cretatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",TV Creta
+https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",Nea TV Crete
+https://live.streams.ovh/neatv/neatv/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",Aeolos TV
+https://live.streams.ovh/aeolos/aeolos/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",BEST TV
+https://bestlive.siliconweb.com/besttv/besttv/playlist.m3u8
+
+#EXTINF:-1 group-title="Grecia Regional",IONIAN TV
+https://stream.ioniantv.gr/ioniantv/live/index.m3u8
+
+# ===== Música / Religión =====
+#EXTINF:-1 group-title="Grecia Música",MAD TV
+https://streaming.mad.gr/live/madtv/index.m3u8
+
+#EXTINF:-1 group-title="Grecia Religión",4E TV
+https://live.streams.ovh/4etv/4etv/playlist.m3u8
+
+# ===== Parlamento =====
+#EXTINF:-1 group-title="Grecia Info",Vouli Tileorasi
+https://streaming-vouli.media.gov.gr/live/webtv.m3u8
